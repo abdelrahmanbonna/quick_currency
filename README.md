@@ -1,10 +1,10 @@
 # quick_currency
 
-A new Flutter project.
+A new Flutter project that uses web scrabbing to get currencies exchange rates.
 
 ## Getting Started
 
-This project is a starting point for a simple currency Flutter application.
+This project is a starting point for a simple currency calculator Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -23,4 +23,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ### Windows
 
-<img src="WindowsScreenshot.PNG" width="200" title="Windows Screenshot" alt="Windows Screenshot" />
+<img src="WindowsScreenshot.PNG" width="300" title="Windows Screenshot" alt="Windows Screenshot" />
