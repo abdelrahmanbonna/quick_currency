@@ -1,6 +1,6 @@
 # quick_currency
 
-A new Flutter project that uses web scrabbing to get currencies exchange rates.
+A new Flutter project that uses web scraping to get currencies exchange rates.
 
 ## Getting Started
 
