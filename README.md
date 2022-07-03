@@ -18,6 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screen Shots
 
-![Alt text](Screenshot_1656811420.png?raw=true "Android Screenshot")
+### Android
+<img src="Screenshot_1656811420.png" width="128" alt="Android Screenshot" />
 
-![Alt text](WindowsScreenshot.PNG?raw=true "Windows Screenshot")
+### Windows
+<img src="WindowsScreenshot.PNG" width="128" alt="Windows Screenshot" />
