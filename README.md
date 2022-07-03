@@ -27,4 +27,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Testing Links
 
-### Testing Link for Android: https://i.diawi.com/FZH7jn
+### Testing Link for Android: [Android apk link](https://i.diawi.com/FZH7jn)
