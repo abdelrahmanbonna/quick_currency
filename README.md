@@ -24,3 +24,7 @@ samples, guidance on mobile development, and a full API reference.
 ### Windows
 
 <img src="WindowsScreenshot.PNG" width="300" title="Windows Screenshot" alt="Windows Screenshot" />
+
+## Testing Links
+
+### Testing Link for Android: https://i.diawi.com/FZH7jn
