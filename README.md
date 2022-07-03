@@ -15,11 +15,12 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
 ## Screen Shots
 
 ### Android
-<img src="Screenshot_1656811420.png" width="128" alt="Android Screenshot" />
+
+<img src="Screenshot_1656811420.png" width="300" title="Android Screenshot" alt="Android Screenshot" />
 
 ### Windows
-<img src="WindowsScreenshot.PNG" width="128" alt="Windows Screenshot" />
+
+<img src="WindowsScreenshot.PNG" width="200" title="Windows Screenshot" alt="Windows Screenshot" />
